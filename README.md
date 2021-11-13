@@ -49,17 +49,17 @@ or
 ```
   
 
-Feito a instalação das dependências você precisa já ter uma conta criada na <a  src="https://rapidapi.com/"  target="_blank">Rapidapi</a>
+Feito a instalação das dependências você precisa já ter uma conta criada na [Rapidapi](https://rapidapi.com/)
 
   
 Esse projeto usa duas API do Rapidapi
 
 
-<a  src="https://rapidapi.com/Coinranking/api/coinranking1/" target="_blank">Coinranking</a> para obter as informações e dados sobre as moedas.
+[Coinranking](https://rapidapi.com/Coinranking/api/coinranking1/) para obter as informações e dados sobre as moedas.
 
-<a  src="https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/" target="_blank">Bing News Search</a> para obter as últimas notícias sobre as moedas.
+[Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) para obter as últimas notícias sobre as moedas.
 
-  <br/>
+<br/>
 
 Após isso, você precisa criar um arquivo .env na raiz do projeto com as seguintes variáveis:
 
