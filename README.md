@@ -5,7 +5,7 @@
 <p  align="center">Este projeto é um site a onde o usuário poderá ver as principais informações de mercado de todas as principais crypto moedas do mercado além de poder ver dados em tabela ao passar do tempo e ler as últimas notícias da moeda desejada
 </p>
 
-<img src="./src/images/project.png" alt="imagem do projeto crypto news" />
+<img src="src/images/project.png" alt="imagem do projeto crypto news" />
 
 As seguintes ferramentas foram usadas na construção do projeto:
   
@@ -22,7 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
   
 
-Como inicializar o Projeto
+<h2>Como inicializar o Projeto</h2>
 
   
 ```
